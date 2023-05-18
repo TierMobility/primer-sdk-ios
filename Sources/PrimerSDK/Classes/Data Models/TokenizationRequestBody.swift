@@ -1,3 +1,5 @@
+import Foundation
+
 #if canImport(UIKit)
 
 public enum TokenType: String, Codable {
